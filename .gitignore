@@ -1,0 +1,13 @@
+# Görüşme çıktıları — müşteri verisi içerir, asla commit etme
+transkriptler/
+analizler/
+kayitlar/
+ACI-HARITASI.md
+ITIRAZ-PLAYBOOK.md
+ICERIK-FIKIRLERI.md
+*.m4a
+*.mp3
+*.wav
+*.mp4
+*.mov
+.DS_Store
